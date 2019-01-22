@@ -1,0 +1,17 @@
+.skin-blue .wrapper,.skin-blue .main-sidebar,.skin-blue .left-side{background-color:#ecf0f5}
+
+.col-md-2,.col-md-10
+{background-color:#3c8dbc; padding:20px;border-radius:10px;}
+#hoho
+{background-color:#3c8dbc;padding:20px;border-radius:4px;}
+.publi
+{  
+  /* "overflow" doit être différent
+  de "visible" */ 
+white-space: nowrap;
+  width: 100%;                   
+  overflow: hidden;              
+
+
+  text-overflow: ellipsis;
+}
